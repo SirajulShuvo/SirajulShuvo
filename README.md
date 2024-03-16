@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Sirajul Islam.
 - 🌱 I’m currently learning **FrontEnd Development**.
-- 🚀 MY protfolio account is  <a href="https://github.com/sirajul420/Personal-protfolio">Personal protfolio</a>
+- 🚀 MY protfolio account is  <a href="https://sirajul420.github.io/Personal-protfolio/">Personal protfolio</a>
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: <a href="sirajulshuvo08@gmail.com">sirajulshuvo08@gmail.com</a>
 - 😄 Pronouns: he/him
