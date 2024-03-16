@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋, I'm Sirajul Islam.
+- 🌱 I’m currently learning **FrontEnd Development**.
+- 🚀 MY protfolio account is  <a href="https://github.com/sirajul420/Personal-protfolio">Personal protfolio</a>
+- 💬 Ask me about Web Development.
+- 📫 How to reach me: <a href="sirajulshuvo08@gmail.com">sirajulshuvo08@gmail.com</a>
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love to share something with other.
 
-<!--
-**sirajul420/sirajul420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🍿 5 Random Facts About Me
 
-Here are some ideas to get you started:
+1. 🌭 I like to waste time to learning something new like that people doesn't like that kind of topic.
+2. 📃 I keep a running list of [My Life's Bucket List: Goals to Achieve](https://shrudra.github.io/bucket-list.html).
+3. 🗓️ I maintain  discipline because of discipline is everything in life..
+4. 📝 I daily write practice coding in text editor like vs code sublime text and so on.
+5. 🏠 My hometown is Mymensingh, Bangladesh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
